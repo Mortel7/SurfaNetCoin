@@ -1,4 +1,3 @@
-# DevSmith
-A simple landing webpage for DevSmith
+# SurfaNetCoin Page
 
-# Credits to boss : Romel 😘
+# HackDroid PH
