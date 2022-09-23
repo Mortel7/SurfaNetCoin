@@ -1,4 +1,4 @@
-# romzvpnpro
-A simple landing webpage for ROMZ VPN PRO
+# DevSmith
+A simple landing webpage for DevSmith
 
-# THANK YOU IDOK ROMEL GODBLESS SAYO SANA DI KAPA MAMATAY MWAH MWAH 😘
+# Credits to boss : Romel 😘
